@@ -1,0 +1,1 @@
+- [Director Studio product thesis](director-studio-product-thesis.md) — win through continuity-aware orchestration across specialist media providers, not by owning a single generation model.
