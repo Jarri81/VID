@@ -1,0 +1,9 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "-WrI1bnlZcscQtHvQgixO"
+uri = "file://docs/director-studio-spec.md"
+type = "text"
+title = "Director Studio Product Specification"
+description = "Detailed product and systems specification for the long-form AI filmmaking orchestration platform."
